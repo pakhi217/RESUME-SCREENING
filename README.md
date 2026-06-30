@@ -16,21 +16,6 @@
 
 ---
 
-## 📸 Demo
-
-> **Screenshot placeholder** — add a screenshot of the landing page here
-> `assets/screenshots/landing.png`
-
-> **Screenshot placeholder** — add a screenshot of the Analysis page (circular progress rings) here
-> `assets/screenshots/analysis.png`
-
-> **Screenshot placeholder** — add a screenshot of the Candidate Ranking leaderboard here
-> `assets/screenshots/ranking.png`
-
-> **Demo GIF placeholder** — add a walkthrough GIF here
-> `assets/demo.gif`
-
----
 
 ## ✨ Features
 
@@ -169,16 +154,11 @@ The app will open at `http://localhost:8501`.
 
 ---
 
-## ☁️ Deployment (Streamlit Community Cloud)
+## Author
+**PAKHI SAXENA**
 
-1. Push this repository to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **New app** → select your repo → set main file to `app.py`
-4. Deploy — no additional configuration needed
+BTech ECE Student
 
-The app is fully self-contained with graceful fallbacks (TF-IDF substitutes for semantic search if `sentence-transformers` is unavailable in a constrained environment).
-
----
 
 ## 🗺️ Future Scope
 
